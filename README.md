@@ -14,5 +14,6 @@ building a relational model, adding calculated columns and measures, and ultimat
 
 ## Dashboard Preview :
 
-![Image 1](Images/PowerBi-Fifa%202018-Dashboard-1.png)
-![Image 2](Images/PowerBi-Fifa%202018-Dashboard-1.png)
+![Dashboard Preview 1](Images/PowerBi-Retail-365-Markets-Report-Dashboard-1.png)
+![Dashboard Preview 2](Images/PowerBi-Retail-365-Markets-Report-Dashboard-2.png)
+
