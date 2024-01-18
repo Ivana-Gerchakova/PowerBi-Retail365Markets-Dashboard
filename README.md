@@ -14,5 +14,5 @@ building a relational model, adding calculated columns and measures, and ultimat
 
 ## Dashboard Preview :
 
-![Image 1](Images/PowerBi-Retail%20365%20Markets%20Report%20Dashboard-1.png)
-![Image 2](Images/PowerBi-Retail%20365%20Markets%20Report%20Dashboard-2.png)
+<img src="Images/PowerBi-Retail_365_Markets_Report_Dashboard_1.png">
+
