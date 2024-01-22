@@ -1,6 +1,6 @@
 # Project Title :
 
-PowerBi - Retail 365 Markets Report - Dashboard
+PowerBi - Retail 365 Markets Report - Dashboard.
 
 ## Project Overview :
 This Power BI project aims to deliver a comprehensive business intelligence solution. 
